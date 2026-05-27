@@ -22,11 +22,11 @@
 
 ## 4. Frontend
 
-- [ ] Crear interfaz HTML con Tailwind.
-- [ ] Crear logica TypeScript.
-- [ ] Consumir endpoints REST.
-- [ ] Implementar crear, editar, eliminar y filtrar.
-- [ ] Mostrar resumen.
+- [x] Crear interfaz HTML con Tailwind.
+- [x] Crear logica TypeScript.
+- [x] Consumir endpoints REST.
+- [x] Implementar crear, editar, eliminar y filtrar.
+- [x] Mostrar resumen.
 
 ## 5. Documentacion y entrega
 
