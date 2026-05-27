@@ -1,0 +1,12 @@
+{
+  "name": "taskcampus-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "serve": "npx http-server . -p 5173"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  }
+}
