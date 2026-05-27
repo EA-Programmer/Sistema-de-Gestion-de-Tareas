@@ -32,6 +32,6 @@
 
 - [x] Escribir README con instalacion, uso, endpoints e integrantes.
 - [x] Ejecutar pruebas.
-- [ ] Preparar commits y ramas.
+- [x] Preparar commits y ramas.
 - [ ] Conectar repositorio remoto de GitHub.
 - [ ] Publicar evidencias de ramas, commits y pull requests.
