@@ -30,8 +30,8 @@
 
 ## 5. Documentacion y entrega
 
-- [ ] Escribir README con instalacion, uso, endpoints e integrantes.
-- [ ] Ejecutar pruebas.
+- [x] Escribir README con instalacion, uso, endpoints e integrantes.
+- [x] Ejecutar pruebas.
 - [ ] Preparar commits y ramas.
 - [ ] Conectar repositorio remoto de GitHub.
 - [ ] Publicar evidencias de ramas, commits y pull requests.
