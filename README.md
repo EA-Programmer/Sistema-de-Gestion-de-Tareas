@@ -108,6 +108,12 @@ Tambien se realizo una prueba manual desde el frontend creando una tarea, verifi
 
 ## Flujo Git y GitHub
 
+Repositorio remoto:
+
+```text
+https://github.com/EA-Programmer/Sistema-de-Gestion-de-Tareas.git
+```
+
 Ramas usadas:
 
 - `main`: rama estable.
@@ -122,21 +128,21 @@ Commits principales:
 - `feat: build TypeScript task interface`
 - `docs: document installation and delivery`
 
-Cuando exista el repositorio remoto en GitHub:
+Comandos usados para publicar:
 
 ```bash
-git remote add origin URL_DEL_REPOSITORIO
+git remote add origin https://github.com/EA-Programmer/Sistema-de-Gestion-de-Tareas.git
 git push -u origin main
 git push -u origin feature/backend
 git push -u origin feature/frontend
 git push -u origin docs/readme
 ```
 
-Luego se crean pull requests desde:
+Pull requests creados como evidencia:
 
-- `feature/backend` hacia `main`.
-- `feature/frontend` hacia `main`.
-- `docs/readme` hacia `main`.
+- PR #1: `feature/backend` hacia `main`.
+- PR #2: `feature/frontend` hacia `main`.
+- PR #3: `docs/readme` hacia `main`.
 
 ## Integrantes
 
