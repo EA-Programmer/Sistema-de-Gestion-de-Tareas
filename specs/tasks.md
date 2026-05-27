@@ -14,11 +14,11 @@
 
 ## 3. Backend
 
-- [ ] Crear API REST en Python.
-- [ ] Implementar almacenamiento JSON.
-- [ ] Implementar validaciones.
-- [ ] Implementar filtros y resumen.
-- [ ] Agregar pruebas.
+- [x] Crear API REST en Python.
+- [x] Implementar almacenamiento JSON.
+- [x] Implementar validaciones.
+- [x] Implementar filtros y resumen.
+- [x] Agregar pruebas.
 
 ## 4. Frontend
 
